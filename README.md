@@ -25,7 +25,7 @@ me.say_hi()
 ```
 # 🛠 Tech Stack
 
-> skills
+## skills
 
 - 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
 
@@ -40,7 +40,3 @@ me.say_hi()
 - 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
 
   
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=athy125&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
