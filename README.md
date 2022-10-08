@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I’m currently working on **[]()** -->
 
-- 🌱 I’m currently learning **Solidity.**
+- 🌱 I’m currently learning **about model rockets and building radio telementry.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
