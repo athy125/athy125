@@ -4,5 +4,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <p align="center">
-  <img src="https://github.com/athy125/athy125/code.gif">
+  <img src="https://github.com/athy125/athy125/blob/main/code.gif">
 </p>
