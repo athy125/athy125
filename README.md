@@ -6,7 +6,7 @@
 
 
 
-*Interested in Machine Learning, Satellites and, Software.*
+*Building things that matter.*
 
 
 Welcome to my profile.<br>
