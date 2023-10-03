@@ -6,7 +6,7 @@
 
 
 
-*Interested in LLMs, Satellites and FullStack Development.*
+*Interested in Machine Learning, Satellites and, Software.*
 
 
 Welcome to my profile.<br>
